@@ -6,8 +6,8 @@ Contenders:
 
 - `Select-String`
 - `findstr`
-- `grep` (installed through chocolatey)
-- `grep` (WSL / "linux native")
+- `"grep"` (installed through chocolatey)
+- `grep` (WSL / "linux native" || macOS / FreeBSD)
 
 ## Files
 
