@@ -13,8 +13,8 @@ Contenders:
 
 - `measure_test.ps1`
 - `measure_test.sh`
-- `fileData1k.csv`
-- `fileData1m.csv`
+- `testfile_1k.csv`
+- `testfile_1m.csv`
 - `test_names.ps1`
 
 ## Testing Results
